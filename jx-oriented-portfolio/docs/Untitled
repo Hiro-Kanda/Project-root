@@ -1,0 +1,30 @@
+# Roadmap
+
+## Phase 1
+telemetry-anomaly-lab を完成させる
+- 疑似テレメトリ生成
+- 異常検知
+- イベント保存
+- API
+- テスト
+- Docker化
+- CI
+
+## Phase 2
+flight-sim-validation-lab を実装する
+- 2D飛行モデル
+- 擾乱
+- センサノイズ
+- 軌道可視化
+- 検証スクリプト
+- レポート出力
+
+## Phase 3
+secure-rag-ops-lab を実装する
+- 文書分割
+- 埋め込み
+- 検索
+- リランキング
+- 権限制御
+- 出典提示
+- 評価スクリプト
